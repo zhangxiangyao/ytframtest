@@ -1,1 +1,2 @@
 # ytframtest
+ytframe框架的所有使用方法都在lib文件夹下的VueYtframe.vue文件里面
